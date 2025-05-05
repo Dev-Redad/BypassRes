@@ -18,7 +18,7 @@
     },
     "BOT_TOKEN": {
       "description": "A Bot's token from Botfather",
-      "value": "your_bot_token_here",
+      "value": "7251195381:AAFym-hpv7Zf2xrtU7LRwVu71DKPQY6JheE",
       "required": true
     },
     "MONGO_DB": {
@@ -28,12 +28,12 @@
     },
     "OWNER_ID": {
       "description": "The user ID of the user whom you would like to add as OWNER.",
-      "value": "owner_user_id_here",
+      "value": "7582708769",
       "required": true
     },    
     "FREEMIUM_LIMIT": {
       "description": "Batch size for free users",
-      "value": "0",
+      "value": "20",
       "required": true
     },
     "PREMIUM_LIMIT": {
